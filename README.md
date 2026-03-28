@@ -275,25 +275,45 @@ sql_homework/
 ### vehicles:
 
 ```sql
-create database vehicles with template =template0 encoding ='UTF8' lc_collate ='ru_RU.UTF-8' lc_ctype ='ru_RU.UTF-8' owner <владелец>;
+create database vehicles
+with template=template0
+  encoding ='UTF8'
+  lc_collate ='ru_RU.UTF-8'
+  lc_ctype ='ru_RU.UTF-8'
+owner <владелец>;
 ```
 
 ### racing:
 
 ```sql
-create database racing with template =template0 encoding ='UTF8' lc_collate ='ru_RU.UTF-8' lc_ctype ='ru_RU.UTF-8' owner <владелец>;
+create database racing
+with template=template0
+  encoding ='UTF8'
+  lc_collate ='ru_RU.UTF-8'
+  lc_ctype ='ru_RU.UTF-8'
+owner <владелец>;
 ```
 
 ### hotels:
 
 ```sql
-create database hotels with template =template0 encoding ='UTF8' lc_collate ='ru_RU.UTF-8' lc_ctype ='ru_RU.UTF-8' owner <владелец>;
+create database hotels
+with template=template0
+  encoding ='UTF8'
+  lc_collate ='ru_RU.UTF-8'
+  lc_ctype ='ru_RU.UTF-8'
+owner <владелец>;
 ```
 
 ### organization:
 
 ```sql
-create database organization with template =template0 encoding ='UTF8' lc_collate ='ru_RU.UTF-8' lc_ctype ='ru_RU.UTF-8' owner <владелец>;
+create database organization
+with template=template0
+  encoding ='UTF8'
+  lc_collate ='ru_RU.UTF-8'
+  lc_ctype ='ru_RU.UTF-8'
+owner <владелец>;
 ```
 
 2. Создать таблицы и заполнить их данными (выполнить `create.sql`)
