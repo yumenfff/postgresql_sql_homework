@@ -277,9 +277,9 @@ sql_homework/
 ```sql
 create database vehicles
 with template=template0
-  encoding ='UTF8'
-  lc_collate ='ru_RU.UTF-8'
-  lc_ctype ='ru_RU.UTF-8'
+  encoding='UTF8'
+  lc_collate='ru_RU.UTF-8'
+  lc_ctype='ru_RU.UTF-8'
 owner <владелец>;
 ```
 
@@ -288,9 +288,9 @@ owner <владелец>;
 ```sql
 create database racing
 with template=template0
-  encoding ='UTF8'
-  lc_collate ='ru_RU.UTF-8'
-  lc_ctype ='ru_RU.UTF-8'
+  encoding='UTF8'
+  lc_collate='ru_RU.UTF-8'
+  lc_ctype='ru_RU.UTF-8'
 owner <владелец>;
 ```
 
@@ -299,9 +299,9 @@ owner <владелец>;
 ```sql
 create database hotels
 with template=template0
-  encoding ='UTF8'
-  lc_collate ='ru_RU.UTF-8'
-  lc_ctype ='ru_RU.UTF-8'
+  encoding='UTF8'
+  lc_collate='ru_RU.UTF-8'
+  lc_ctype='ru_RU.UTF-8'
 owner <владелец>;
 ```
 
@@ -310,9 +310,9 @@ owner <владелец>;
 ```sql
 create database organization
 with template=template0
-  encoding ='UTF8'
-  lc_collate ='ru_RU.UTF-8'
-  lc_ctype ='ru_RU.UTF-8'
+  encoding='UTF8'
+  lc_collate='ru_RU.UTF-8'
+  lc_ctype='ru_RU.UTF-8'
 owner <владелец>;
 ```
 
